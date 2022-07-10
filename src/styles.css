@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.buttonCal {
+  display: flex;
+  background-color: palevioletred;
+}
+.button {
+  padding: 20px;
+  background-color: red;
+  border: 5px solid blue;
+  cursor: pointer;
+}
+.screen {
+  background-color: palevioletred;
+  padding: 20px;
+}
